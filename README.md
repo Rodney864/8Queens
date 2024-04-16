@@ -1,4 +1,4 @@
-Eight Queens Problem with Hill-Climbing Algorithm
+**Eight Queens Problem with Hill-Climbing Algorithm**
 
 Instructions
 The objective of this program is to place 8 queens on an 8x8 board where none of the queens are in conflict with each other. 
